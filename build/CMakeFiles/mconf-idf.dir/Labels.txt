@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/Users/bitt/Workspace/tcc/oct_can/build/CMakeFiles/mconf-idf
+/Users/bitt/Workspace/tcc/oct_can/build/CMakeFiles/mconf-idf.rule
+/Users/bitt/Workspace/tcc/oct_can/build/CMakeFiles/mconf-idf-complete.rule
+/Users/bitt/Workspace/tcc/oct_can/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
+/Users/bitt/Workspace/tcc/oct_can/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/Users/bitt/Workspace/tcc/oct_can/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/Users/bitt/Workspace/tcc/oct_can/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/Users/bitt/Workspace/tcc/oct_can/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/Users/bitt/Workspace/tcc/oct_can/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/Users/bitt/Workspace/tcc/oct_can/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
