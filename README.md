@@ -22,8 +22,8 @@ The CAN controller in the ESP32 represents dominant bits to the transceiver as
 logic low, and recessive bits as logic high. The Self Test Example utilizes the 
 following default pin assignments
 
-* TX Pin is routed to GPIO21
-* RX Pin is routed to GPIO22
+* TX Pin is routed to GPIO17
+* RX Pin is routed to GPIO16
 
 ## Note
 If the Self Test Example does not receive any messages, it is likely that the
