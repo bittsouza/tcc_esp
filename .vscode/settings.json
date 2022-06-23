@@ -1,5 +1,6 @@
 {
     "idf.port": "/dev/cu.usbserial-0001",
     "idf.flashType": "UART",
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Disabled",
+    "idf.adapterTargetName": "esp32"
 }
